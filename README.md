@@ -1,4 +1,4 @@
-# nkbui
+# hsui
 
 ## Project setup
 ```

@@ -1,6 +1,6 @@
 {
-  "name": "nkbui",
-  "version": "0.1.4",
+  "name": "hsui",
+  "version": "0.0.1",
   "private": false,
   "main": "dist/nkbui.umd.min.js",
   "scripts": {
@@ -48,5 +48,19 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZZXcostar/hsui.git"
+  },
+  "keywords": [
+    "hsui"
+  ],
+  "author": "ZZXcostar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZZXcostar/hsui/issues"
+  },
+  "homepage": "https://github.com/ZZXcostar/hsui#readme"
 }
