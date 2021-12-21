@@ -1,5 +1,5 @@
 {
-  "name": "hsui",
+  "name": "hslovej_ui",
   "version": "0.0.1",
   "private": false,
   "main": "dist/nkbui.umd.min.js",
@@ -52,15 +52,15 @@
   "description": "## Project setup ``` npm install ```",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZZXcostar/hsui.git"
+    "url": "git+https://github.com/ZZXcostar/hslovej_ui.git"
   },
   "keywords": [
-    "hsui"
+    "hslovej_ui"
   ],
   "author": "ZZXcostar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZZXcostar/hsui/issues"
+    "url": "https://github.com/ZZXcostar/hslovej_ui/issues"
   },
-  "homepage": "https://github.com/ZZXcostar/hsui#readme"
+  "homepage": "https://github.com/ZZXcostar/hslovej_ui#readme"
 }
