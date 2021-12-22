@@ -2,7 +2,7 @@
   "name": "hslovej_ui",
   "version": "0.0.1",
   "private": false,
-  "main": "dist/nkbui.umd.min.js",
+  "main": "dist/hslovej_ui.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
